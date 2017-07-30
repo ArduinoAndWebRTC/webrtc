@@ -19,6 +19,7 @@ import android.preference.PreferenceManager;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.View;
 
 import com.myhexaville.androidwebrtc.R;
 import com.myhexaville.androidwebrtc.call.CallActivity;
@@ -72,5 +73,9 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra(EXTRA_ROOMID, roomId);
         intent.putExtra(EXTRA_MODE, isCamera);
         startActivityForResult(intent, CONNECTION_REQUEST);
+    }
+
+    public void cameraConnectToRoom(View view){
+        isCamera = true;
     }
 }
