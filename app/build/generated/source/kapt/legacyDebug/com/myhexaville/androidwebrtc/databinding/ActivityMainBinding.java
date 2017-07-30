@@ -12,14 +12,10 @@ public class ActivityMainBinding extends android.databinding.ViewDataBinding  {
         sViewsWithIds.put(R.id.room_edittext_description, 1);
         sViewsWithIds.put(R.id.room_edittext, 2);
         sViewsWithIds.put(R.id.connect_button, 3);
-        sViewsWithIds.put(R.id.lv, 4);
-        sViewsWithIds.put(R.id.on, 5);
-        sViewsWithIds.put(R.id.list, 6);
+        sViewsWithIds.put(R.id.on, 4);
     }
     // views
     public final android.widget.ImageView connectButton;
-    public final android.widget.Button list;
-    public final android.widget.ListView lv;
     private final android.widget.LinearLayout mboundView0;
     public final android.widget.Button on;
     public final android.widget.EditText roomEdittext;
@@ -31,13 +27,11 @@ public class ActivityMainBinding extends android.databinding.ViewDataBinding  {
 
     public ActivityMainBinding(android.databinding.DataBindingComponent bindingComponent, View root) {
         super(bindingComponent, root, 0);
-        final Object[] bindings = mapBindings(bindingComponent, root, 7, sIncludes, sViewsWithIds);
+        final Object[] bindings = mapBindings(bindingComponent, root, 5, sIncludes, sViewsWithIds);
         this.connectButton = (android.widget.ImageView) bindings[3];
-        this.list = (android.widget.Button) bindings[6];
-        this.lv = (android.widget.ListView) bindings[4];
         this.mboundView0 = (android.widget.LinearLayout) bindings[0];
         this.mboundView0.setTag(null);
-        this.on = (android.widget.Button) bindings[5];
+        this.on = (android.widget.Button) bindings[4];
         this.roomEdittext = (android.widget.EditText) bindings[2];
         this.roomEdittextDescription = (android.widget.TextView) bindings[1];
         setRootTag(root);

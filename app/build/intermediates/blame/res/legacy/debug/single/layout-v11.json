@@ -1,26 +1,50 @@
 [
     {
-        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/layout-v11/notification_media_action.xml",
-        "source": "/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/res/layout-v11/notification_media_action.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9426389a834a9ab09fcac54a870c65b747780f4a\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9426389a834a9ab09fcac54a870c65b747780f4a\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\jsharp\\.android\\build-cache\\52862642be6acb8333773a2b6d6eab6bd162f5a3\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9426389a834a9ab09fcac54a870c65b747780f4a\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\jsharp\\.android\\build-cache\\52862642be6acb8333773a2b6d6eab6bd162f5a3\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9426389a834a9ab09fcac54a870c65b747780f4a\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9426389a834a9ab09fcac54a870c65b747780f4a\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\jsharp\\.android\\build-cache\\52862642be6acb8333773a2b6d6eab6bd162f5a3\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9426389a834a9ab09fcac54a870c65b747780f4a\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\jsharp\\.android\\build-cache\\52862642be6acb8333773a2b6d6eab6bd162f5a3\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\jsharp\\.android\\build-cache\\52862642be6acb8333773a2b6d6eab6bd162f5a3\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\jsharp\\.android\\build-cache\\52862642be6acb8333773a2b6d6eab6bd162f5a3\\output\\res\\layout-v11\\notification_media_action.xml"
     }
 ]

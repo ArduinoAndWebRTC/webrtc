@@ -38,23 +38,13 @@
                 android:contentDescription="@string/connect_description"
                 app:srcCompat="@drawable/call" />
         </LinearLayout>
-        <ListView
-            android:id="@+id/lv"
-            android:layout_width="match_parent"
-            android:layout_height="54dp"
-            android:layout_weight="0.31" />
+
         <Button
             android:id="@+id/on"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="On"
-            android:text="On" />
+            android:onClick="cameraConnectToRoom"
+            android:text="Camera" />
 
-        <Button
-            android:id="@+id/list"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:onClick="list"
-            android:text="List" />
     </LinearLayout>
 </layout>

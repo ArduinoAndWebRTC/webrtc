@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/incremental/mergeLegacyDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\incremental\\mergeLegacyDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/Users/jsharp/.android/build-cache/2eb81a8252e73e3e18acfb60503d49f7b7881c5a/output/res/values/values.xml",
+                    "file": "C:\\Users\\jsharp\\.android\\build-cache\\2eb81a8252e73e3e18acfb60503d49f7b7881c5a\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\incremental\\mergeLegacyDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\.android\\build-cache\\2ad442e9b7328176562997038a5c41150f9c2a3b\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

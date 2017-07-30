@@ -34,9 +34,6 @@
           <State>
             <id />
           </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
-          </State>
         </expanded-state>
         <selected-state>
           <State>
