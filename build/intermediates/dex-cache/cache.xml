@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/incremental-classes/legacy/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e7b630076c3c66c1fbe7e0e95f2ac2e3992beec">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run-bootstrap_54c4bc995bbb8edd6c339c7d7bb4cbe4ae6a85ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/Desktop/android/Webrtc_current/app/libs/autobanh.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/autobanh_282eaec23d327dc264b6f4f64f2419fdaa299e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/Desktop/android/Webrtc_current/app/libs/base_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07ea55a0c903b722b31d05feb833fd88c4c37d0">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/base_java_fa6b7c9fcfbba430d5ac086e29eeb6b49e9f94f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.6/3562c66f648480d3bd4f76cff722488ced13445b/kotlin-runtime-1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/kotlin-runtime-1.0.6_43903d4269729bc013166b0279b805d2a61cb5ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_0b86de4c340bf79b6f7dc8f7cca82340484d81b1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsharp/Desktop/android/Webrtc_current/app/libs/base_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07ea55a0c903b722b31d05feb833fd88c4c37d0">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/base_java_fa6b7c9fcfbba430d5ac086e29eeb6b49e9f94f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/e5e84046b585d3acbbb2fac442c8e6c84b43e7a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93b7d6ba3bb340e935bf7a36408eb3455264b759">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_997d21fca44d21392f4b5f1de5d064017ec8479f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/3b03934e857313f4005641aee91079da73d92b6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_b2a6c32b84f7f42912cac9645188aceefea71f80.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/incremental-runtime-classes/legacy/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run_c4da40142feeee8ba2fbfd69db731192585a3439/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/08563065243e715afc8a1081b73bb20e0f9eac37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_2e0e371f82f3e21a482f31d7985897f918606b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/7652a701d4fe0c8a6b2047f2a27bcfed6b5339a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_0464e2acacc736178a03da8a5b4a1e7d9878cea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/c10d03ce3eace006334a39344db51a73a8ae8494/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_ac3691ff852bdd120812e191fc55dc4e76dc9e32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/851c2cecc9423a65895778e2a242ffe99c5c871f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_e1002710986f532357195e33091c8341ebf36588.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/491110e7e4d8020ca1b19b9f837ddde587d5c279/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_6a36849066ce72758ce79f58747ac64d6108e604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/d94a3fda8005fa7b93b51131ba98ed65fe10fae4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_9070b4ad4f59174d7344267b0f88b5a4038d36be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/29177ed2d8723c047d7d729e47e7d429e05b60cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_54813ee2b6d21e8441525b33ce7a9739267a6b93.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsharp/Desktop/android/Webrtc_current/app/libs/autobanh.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/autobanh_282eaec23d327dc264b6f4f64f2419fdaa299e79/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/Desktop/android/Webrtc_current/app/libs/libjingle_peerconnection.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="187a888b7cfb6f9678d8cca0aeb56a94a031733a">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/libjingle_peerconnection_64025acb8fef9372904178bdc5a5c21b26d2fb14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/reactive-streams-1.0.0_52322a10de33625eca6c79400650a05b67ab987d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsharp/Desktop/android/Webrtc_current/app/libs/libjingle_peerconnection.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="187a888b7cfb6f9678d8cca0aeb56a94a031733a">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/libjingle_peerconnection_64025acb8fef9372904178bdc5a5c21b26d2fb14/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.5/4f1ac7ec0215e8f87ac80269baadc82878b87ed8/rxjava-2.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/rxjava-2.0.5_f713d9ee8afca1f88769779052a589675f37ed63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.3.3/baseLibrary-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/baseLibrary-2.3.3_a13c89973c1c8bce4f7e9a2f1b7ba7e93f86f6c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/bb547aa848931832f42b8fd58a2a8567c7363a68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_f2e80396bc5df149ede881bebc72e50d8a634a45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/84b003ff64dfba5f930999e6a53b6f7153bba1f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_d0c0df6a42de524c4f2974297f8f78b99dabdb61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.6/d19acb6ed49b9c48228c0e5dff8071fce23be4b8/kotlin-stdlib-1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/kotlin-stdlib-1.0.6_233136bf9d75fbffd26865012990ae92fd38305b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jsharp/.android/build-cache/96aa7afdec69c7f3e50746d40351e4c9a15b9da8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/pre-dexed/legacy/debug/classes_3ff2a202f6ba6a48fe928f24f5c5901d84bc8d1f.jar" />
+    </item>
+
+</items>

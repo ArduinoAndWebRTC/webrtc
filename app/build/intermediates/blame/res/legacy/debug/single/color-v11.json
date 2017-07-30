@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
