@@ -20,12 +20,17 @@ import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.widget.CompoundButton;
+import android.widget.EditText;
+import android.widget.Switch;
+import android.widget.Toast;
 
 import com.myhexaville.androidwebrtc.R;
 import com.myhexaville.androidwebrtc.call.CallActivity;
 import com.myhexaville.androidwebrtc.databinding.ActivityMainBinding;
 
 import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
 
 import pub.devrel.easypermissions.AfterPermissionGranted;
 import pub.devrel.easypermissions.EasyPermissions;
@@ -42,6 +47,8 @@ public class MainActivity extends AppCompatActivity {
     private static final int RC_CALL = 111;
     private ActivityMainBinding binding;
     private boolean isCamera = false;
+    private Switch sc;
+    private EditText editText;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -50,6 +57,26 @@ public class MainActivity extends AppCompatActivity {
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main);
         binding.connectButton.setOnClickListener(v -> connect());
         binding.roomEdittext.requestFocus();
+        editText = (EditText)findViewById(R.id.room_edittext);
+        editText.setHint("請輸入拍攝端房號...");
+        sc = (Switch)findViewById(R.id.cameraSwitch);
+        sc.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                // TODO Auto-generated method stub
+                if (isChecked) {
+                    int randomRoomNumber = ThreadLocalRandom.current().nextInt(10000, Integer.MAX_VALUE);
+                    Log.wtf(LOG_TAG, "Room Number:"+randomRoomNumber);
+                    editText.setText(String.valueOf(randomRoomNumber));
+                    Toast.makeText(getApplicationContext(), "此號碼為拍攝端房號", Toast.LENGTH_LONG).show();
+                    isCamera = true;
+                } else {
+                    editText.setText("");
+                    editText.setHint("請輸入拍攝端房號...");
+                    isCamera = false;
+                }
+            }
+        });
     }
 
     @Override
@@ -75,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult(intent, CONNECTION_REQUEST);
     }
 
-    public void cameraConnectToRoom(View view){
-        isCamera = true;
-    }
+//    public void cameraConnectToRoom(View view){
+//        isCamera = true;
+//    }
 }

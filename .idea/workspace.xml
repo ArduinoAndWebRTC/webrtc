@@ -11,9 +11,231 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d8cf9a4-1e80-4f22-9ab4-2b506ba24076" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/baseLibrary_2_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/legacy/debug/drawable/abc_btn_colored_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/legacy/debug/drawable/abc_edit_text_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/legacy/debug/layout-v16/notification_template_custom_big.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/legacy/debug/layout/notification_action.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/legacy/debug/layout/notification_action_tombstone.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/legacy/debug/layout/notification_template_icon_group.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/legacy/debug/drawable/abc_btn_colored_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/legacy/debug/drawable/abc_edit_text_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/legacy/debug/layout-v16/notification_template_custom_big.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/legacy/debug/layout/notification_action.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/legacy/debug/layout/notification_action_tombstone.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/legacy/debug/layout/notification_template_icon_group.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/call/CallActivity$$Lambda$15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/call/CallActivity$$Lambda$16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/com/myhexaville/androidwebrtc/call/CallActivity$$Lambda$15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/com/myhexaville/androidwebrtc/call/CallActivity$$Lambda$16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$3.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/legacyDebug/data-binding/bin-files/com.myhexaville.androidwebrtc-com.myhexaville.androidwebrtc-layoutinfo.bin" afterPath="$PROJECT_DIR$/app/build/intermediates/bundles/legacyDebug/data-binding/bin-files/com.myhexaville.androidwebrtc-com.myhexaville.androidwebrtc-layoutinfo.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/android/databinding/DataBinderMapper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/android/databinding/DataBinderMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread$MySensorListener_gyro.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread$MySensorListener_gyro.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/main/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/main/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PCObserver$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PCObserver$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PeerConnectionParameters.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PeerConnectionParameters.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/pub/devrel/easypermissions/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/legacy/debug/pub/devrel/easypermissions/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/legacy/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/legacy/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/android/databinding/DataBinderMapper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/android/databinding/DataBinderMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread$MySensorListener_gyro.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread$MySensorListener_gyro.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/call/CallActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/main/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/main/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PCObserver$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PCObserver$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PeerConnectionParameters.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PeerConnectionParameters.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/pub/devrel/easypermissions/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/legacy/debug/pub/devrel/easypermissions/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesLegacyDebug/zip-cache/7PJDBGjyH6YxrEsRrz4M19NGhd8=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesLegacyDebug/zip-cache/7PJDBGjyH6YxrEsRrz4M19NGhd8=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageLegacyDebug/zip-cache/7PJDBGjyH6YxrEsRrz4M19NGhd8=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageLegacyDebug/zip-cache/7PJDBGjyH6YxrEsRrz4M19NGhd8=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-legacy/debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-legacy/debug.ir.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-legacy-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-legacy-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-legacy-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-legacy-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/legacy/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/legacy/debug/slices/slice_0.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/legacy/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/legacy/debug/slices/slice_1.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/legacy/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/legacy/debug/slices/slice_4.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/legacy/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/legacy/debug/slices/slice_5.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/legacy/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/legacy/debug/slices/slice_6.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_0/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_1/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_1/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_4/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_4/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_5/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_5/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_6/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_6/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/android/databinding/DataBinderMapper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/android/databinding/DataBinderMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/call/CallActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/call/CallActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread$MySensorListener_gyro.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread$MySensorListener_gyro.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/call/CallActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/call/CallActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/main/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/main/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/view/PercentFrameLayout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/view/PercentFrameLayout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PCObserver$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PCObserver$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PeerConnectionParameters.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PeerConnectionParameters.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocket.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocket.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocketClient.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocketClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocketServer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocketServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/pub/devrel/easypermissions/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/legacy/debug/folders/1/5/main/pub/devrel/easypermissions/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/pub/devrel/easypermissions/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_0/pub/devrel/easypermissions/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PCObserver$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PCObserver$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PeerConnectionParameters.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PeerConnectionParameters.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocket.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocket.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocketClient.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocketClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocketServer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/com/myhexaville/androidwebrtc/web_rtc/TCPChannelClient$TCPSocketServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_4/android/databinding/DataBinderMapper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_4/android/databinding/DataBinderMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_4/com/myhexaville/androidwebrtc/main/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_4/com/myhexaville/androidwebrtc/main/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/com/myhexaville/androidwebrtc/call/CallActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/com/myhexaville/androidwebrtc/call/CallActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread$MySensorListener_gyro.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread$MySensorListener_gyro.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/com/myhexaville/androidwebrtc/call/CallActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/com/myhexaville/androidwebrtc/call/CallActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_6/com/myhexaville/androidwebrtc/view/PercentFrameLayout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_6/com/myhexaville/androidwebrtc/view/PercentFrameLayout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/android/databinding/DataBinderMapper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/android/databinding/DataBinderMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/call/CallActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/call/CallActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread$MySensorListener_gyro.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/call/CallActivity$SensorThread$MySensorListener_gyro.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/call/CallActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/call/CallActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/main/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/main/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$$Lambda$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PCObserver$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PCObserver$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PeerConnectionParameters.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient$PeerConnectionParameters.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/pub/devrel/easypermissions/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/legacy/debug/folders/1/1/retrolambda/pub/devrel/easypermissions/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-legacy-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-legacy-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/dataBinding/legacy/debug/android/databinding/layouts/DataBindingInfo.java" afterPath="$PROJECT_DIR$/app/build/generated/source/dataBinding/legacy/debug/android/databinding/layouts/DataBindingInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/legacyDebug/android/databinding/DataBinderMapper.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/legacyDebug/android/databinding/DataBinderMapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/legacyDebug/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/legacyDebug/com/myhexaville/androidwebrtc/databinding/ActivityMainBinding.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/legacy/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/legacy/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/legacy/debug/com/myhexaville/androidwebrtc/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/legacy/debug/com/myhexaville/androidwebrtc/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/legacy/debug/pub/devrel/easypermissions/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/legacy/debug/pub/devrel/easypermissions/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/legacy/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/legacy/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/legacy/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/legacy/debug/single/drawable-xxhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/legacy/debug/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/legacy/debug/single/drawable-xxxhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/legacy/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/legacy/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-info/legacy/debug/activity_main-layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-info/legacy/debug/activity_main-layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/legacy/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/legacy/debug/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeLegacyDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeLegacyDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeLegacyDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeLegacyDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesLegacyDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesLegacyDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesLegacyDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesLegacyDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageLegacyDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageLegacyDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageLegacyDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageLegacyDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/manifest.crc" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/manifest.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/manifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/manifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/package_slice_0/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/package_slice_1/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/package_slice_4/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/package_slice_5/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/legacy/debug/package_slice_6/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/legacy/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/legacy/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/legacy/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/legacy/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run/legacy/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run/legacy/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/legacy/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/legacy/debug/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/legacy/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/legacy/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/legacy/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/legacy/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_1/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_4/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_4/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_5/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_6/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/legacy/debug/folders/1/5/slice_6/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-legacy-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-legacy-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/call/CallActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/call/CallActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="Webrtc_current.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,8 +270,8 @@
       <file leaf-file-name="CallActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/call/CallActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-168">
-              <caret line="257" column="61" selection-start-line="257" selection-start-column="61" selection-end-line="257" selection-end-column="61" />
+            <state relative-caret-position="-126">
+              <caret line="133" column="33" selection-start-line="133" selection-start-column="33" selection-end-line="133" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,21 +282,64 @@
       <file leaf-file-name="PeerConnectionClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1158" column="54" selection-start-line="1158" selection-start-column="54" selection-end-line="1158" selection-end-column="54" />
+            <state relative-caret-position="426">
+              <caret line="194" column="28" selection-start-line="194" selection-start-column="28" selection-end-line="194" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+            <state relative-caret-position="312">
+              <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Toast.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-25/android/widget/Toast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-330">
+              <caret line="260" column="24" selection-start-line="260" selection-start-column="24" selection-end-line="260" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Random.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-25/java/util/Random.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1212">
+              <caret line="328" column="15" selection-start-line="328" selection-start-column="15" selection-end-line="328" selection-end-column="15" />
               <folding>
-                <element signature="e#3050#3051#0" expanded="true" />
-                <element signature="e#3081#3082#0" expanded="true" />
+                <element signature="e#13013#13014#0" expanded="true" />
+                <element signature="e#13044#13045#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,25 +355,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="android-designer2">
             <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-              <folding>
-                <element signature="e#1452#1481#0" expanded="true" />
-              </folding>
-            </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="jsharp" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -3004,7 +3273,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4487742490000" />
+        <entry key="$PROJECT_DIR$" value="4495479130000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -3388,13 +3657,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/web_rtc/WebSocketRTCClient.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/util/Constants.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/call/CallActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/call/CallActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
@@ -3427,13 +3697,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Webrtc_current" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -3446,11 +3723,36 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webrtc_current" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webrtc_current" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3461,7 +3763,7 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
-    <property name="device.picker.selection" value="Nexus_4_API_25" />
+    <property name="device.picker.selection" value="WWU46SCYHAT4GM95" />
     <property name="SearchEverywhereHistoryKey" value="main&#9;FILE&#9;file:///Users/jsharp/Desktop/android/Webrtc_current/app/src/main/res/layout/activity_main.xml&#10;datachannel&#9;FILE&#9;jar:///Users/jsharp/Desktop/android/Webrtc_current/app/libs/libjingle_peerconnection.jar!/org/webrtc/DataChannel.class&#10;CAMERA_MSG_META_DATA&#9;null&#9;null&#10;peer&#9;PSI&#9;JAVA://com.myhexaville.androidwebrtc.web_rtc.PeerConnectionClient&#10;cha&#9;PSI&#9;JAVA://com.myhexaville.androidwebrtc.web_rtc.PeerConnectionClient.DataChannelParameters&#10;sendda&#9;PSI&#9;JAVA://com.myhexaville.androidwebrtc.call.CallActivity#sendData" />
   </component>
   <component name="RunManager" selected="Android App.app">
@@ -3798,9 +4100,9 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18858561" sideWeight="0.50858366" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18858561" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24678111" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4057072" sideWeight="0.2918455" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4057072" sideWeight="0.7081545" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24678111" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47022334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3839,40 +4141,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
-          <folding>
-            <element signature="e#1452#1481#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="984">
-          <caret line="68" column="46" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="46" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/call/CallActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2160">
-          <caret line="90" column="25" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13368">
@@ -3882,26 +4150,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
           <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
-          <folding>
-            <element signature="e#1452#1481#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="984">
           <caret line="68" column="46" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="46" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3924,26 +4187,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
           <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
-          <folding>
-            <element signature="e#1452#1481#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3961,7 +4219,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3576">
           <caret line="169" column="53" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3969,7 +4226,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3977,10 +4233,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
           <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4003,24 +4256,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_call.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
           <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4035,24 +4285,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_call.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
           <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4067,24 +4314,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_call.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4099,24 +4343,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_call.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4131,24 +4372,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_call.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4166,10 +4404,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4187,10 +4422,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4208,10 +4440,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4226,35 +4455,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_hud.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/preferences.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
+      <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
     </entry>
@@ -4262,7 +4478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4270,19 +4485,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="169" column="53" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_call.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-883">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/app/libs/libjingle_peerconnection.jar!/org/webrtc/PeerConnection.class">
@@ -4306,16 +4520,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/call/CallActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="257" column="61" selection-start-line="257" selection-start-column="61" selection-end-line="257" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/util/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -4326,34 +4530,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/web_rtc/PeerConnectionClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1158" column="54" selection-start-line="1158" selection-start-column="54" selection-end-line="1158" selection-end-column="54" />
+        <state relative-caret-position="426">
+          <caret line="194" column="28" selection-start-line="194" selection-start-column="28" selection-end-line="194" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/call/CallActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        <state relative-caret-position="-126">
+          <caret line="133" column="33" selection-start-line="133" selection-start-column="33" selection-end-line="133" selection-end-column="33" />
           <folding>
-            <element signature="e#1452#1481#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-25/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1212">
+          <caret line="328" column="15" selection-start-line="328" selection-start-column="15" selection-end-line="328" selection-end-column="15" />
+          <folding>
+            <element signature="e#13013#13014#0" expanded="true" />
+            <element signature="e#13044#13045#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-25/android/widget/Toast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="260" column="24" selection-start-line="260" selection-start-column="24" selection-end-line="260" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/myhexaville/androidwebrtc/main/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding>
-            <element signature="e#3050#3051#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
   </component>

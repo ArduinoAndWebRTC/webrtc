@@ -1,4 +1,4 @@
-#Sun Jul 30 17:21:32 CST 2017
+#Sun Jul 30 20:17:36 CST 2017
 base.0=/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_6
 renamed.0=classes.dex
 file.0=/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/5/slice_6/classes.dex

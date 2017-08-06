@@ -28,7 +28,7 @@ android {
     defaultConfig {
         vectorDrawables.useSupportLibrary = true
         applicationId "com.myhexaville.androidwebrtc"
-        minSdkVersion 16
+        minSdkVersion 21
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
@@ -45,7 +45,7 @@ android {
             minSdkVersion 21
         }
         legacy {
-            minSdkVersion 16
+            minSdkVersion 21
         }
     }
 }

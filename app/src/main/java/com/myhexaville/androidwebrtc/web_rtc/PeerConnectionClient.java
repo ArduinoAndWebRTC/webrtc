@@ -86,7 +86,7 @@ public class PeerConnectionClient {
     private static final String DTLS_SRTP_KEY_AGREEMENT_CONSTRAINT = "DtlsSrtpKeyAgreement";
     private static final int HD_VIDEO_WIDTH = 1920;
     private static final int HD_VIDEO_HEIGHT = 1080;
-    private static final int BPS_IN_KBPS = 1000;
+    private static final int BPS_IN_KBPS = 8000;
 
     private static final PeerConnectionClient instance = new PeerConnectionClient();
     private final PCObserver pcObserver = new PCObserver();
@@ -189,7 +189,7 @@ public class PeerConnectionClient {
             "TCP", true, 0);
             return new PeerConnectionParameters(true, false,
                     false, 0, 0, 0,
-                    0, "VP8",
+                    0, "H264",
                     true,
                     false,
                     0, "OPUS",
@@ -475,7 +475,7 @@ public class PeerConnectionClient {
 
             // If fps is not specified, default to 30.
             if (videoFps == 0) {
-                videoFps = 30;
+                videoFps = 60;
             }
             Logging.d(TAG, "Capturing format: " + videoWidth + "x" + videoHeight + "@" + videoFps);
         }
@@ -1157,7 +1157,7 @@ public class PeerConnectionClient {
                     String strData = new String(bytes);
                     int msg = Integer.valueOf(strData);
                     CallActivity.sendBluetoothData(msg);
-                    Log.wtf(TAG, "------Got msg: " + msg + " over " + dc+"------");
+//                    Log.wtf(TAG, "------Got msg: " + msg + " over " + dc+"------");
                 }
             });
         }

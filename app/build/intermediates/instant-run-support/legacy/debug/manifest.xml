@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="21"
         android:targetSdkVersion="25" />
 
     <uses-feature android:name="android.hardware.camera" />
@@ -44,7 +44,7 @@
             android:name="com.myhexaville.androidwebrtc.call.CallActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/app_name"
-            android:screenOrientation="fullUser"
+            android:screenOrientation="landscape"
             android:theme="@style/AppTheme.Call" />
         <activity
             android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"

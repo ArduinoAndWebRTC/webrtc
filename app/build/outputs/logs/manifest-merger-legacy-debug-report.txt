@@ -104,9 +104,9 @@ ADDED from /Users/jsharp/Desktop/android/Webrtc_current/app/src/main/AndroidMani
 	android:name
 		ADDED from /Users/jsharp/Desktop/android/Webrtc_current/app/src/main/AndroidManifest.xml:34:27-74
 activity#com.myhexaville.androidwebrtc.call.CallActivity
-ADDED from /Users/jsharp/Desktop/android/Webrtc_current/app/src/main/AndroidManifest.xml:37:9-42:51
+ADDED from /Users/jsharp/Desktop/android/Webrtc_current/app/src/main/AndroidManifest.xml:37:9-42:52
 	android:screenOrientation
-		ADDED from /Users/jsharp/Desktop/android/Webrtc_current/app/src/main/AndroidManifest.xml:42:13-49
+		ADDED from /Users/jsharp/Desktop/android/Webrtc_current/app/src/main/AndroidManifest.xml:42:13-50
 	android:label
 		ADDED from /Users/jsharp/Desktop/android/Webrtc_current/app/src/main/AndroidManifest.xml:40:13-45
 	android:configChanges

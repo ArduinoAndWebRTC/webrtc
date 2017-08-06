@@ -130,7 +130,7 @@ public class CallActivity extends AppCompatActivity
         final Intent intent = getIntent();
         String roomId = intent.getStringExtra(EXTRA_ROOMID);
         isCamera = intent.getBooleanExtra(EXTRA_MODE, false);
-
+//        Log.wtf(LOG_TAG, "isCamera?:"+isCamera);
         setupBluetooth(isCamera);
 
         remoteRenderers.add(binding.remoteVideoView);
@@ -175,7 +175,7 @@ public class CallActivity extends AppCompatActivity
         if (!isCamera) {
             SensorThread sensorThread = new SensorThread();
             sensorThread.start();
-            readBluetoothData();
+//            readBluetoothData();
         }
 
         startCall();
@@ -208,10 +208,10 @@ public class CallActivity extends AppCompatActivity
             }
 
             public void onSensorChanged(SensorEvent event) {
-                Log.d("ListenerTag", Thread.currentThread().getName()); // To display thread
+//                Log.d("ListenerTag", Thread.currentThread().getName()); // To display thread
                 xcurrent = Math.round(event.values[0]);
                 zcurrent = Math.round(event.values[2]);
-                Log.wtf(LOG_TAG, "-----onSensorChanged-----");
+//                Log.wtf(LOG_TAG, "-----onSensorChanged-----");
                 if (xprevious > xcurrent + 1)
                     sendWifiData(1);
                 else if (xprevious < xcurrent - 1)
@@ -241,8 +241,10 @@ public class CallActivity extends AppCompatActivity
         ByteBuffer buffer = ByteBuffer.wrap(data.getBytes());
         DataChannel.Buffer dcBuffer = new DataChannel.Buffer(buffer, false);
         if(peerConnectionClient.getDataChannel() != null) {
-            if (peerConnectionClient.getDataChannel().send(dcBuffer))
-                Log.wtf(LOG_TAG, "----------Success----------");
+            if (peerConnectionClient.getDataChannel().send(dcBuffer)){
+
+            }
+//                Log.wtf(LOG_TAG, "----------Success----------");
         }
     }
 
@@ -267,7 +269,7 @@ public class CallActivity extends AppCompatActivity
             public void run() {
                 while (true) {
                     try {
-                        Log.wtf(LOG_TAG,"In read bluetooth Thread");
+//                        Log.wtf(LOG_TAG,"In read bluetooth Thread");
                         // Read from the InputStream
                         //int availableBytes = mmInputStream.available();
                         byte[] buffer = new byte[1];
