@@ -21,6 +21,7 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
@@ -295,6 +296,24 @@ public class CallActivity extends AppCompatActivity
 //        gyroSensor = sensorManager
 //                .getDefaultSensor(Sensor.TYPE_ORIENTATION);
 //        gravitySensor = sensorManager.getDefaultSensor(Sensor.TYPE_GRAVITY);
+        final Handler handler = new Handler();
+        handler.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                if (isCamera) {
+                    WindowManager.LayoutParams params = getWindow().getAttributes();
+                    params.flags |= WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON;
+                    params.screenBrightness = 0;
+                    getWindow().setAttributes(params);
+                }
+            }
+        }, 7000);
+        /*if(isCamera){
+            WindowManager.LayoutParams params = getWindow().getAttributes();
+            params.flags |= WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON;
+            params.screenBrightness = 0;
+            getWindow().setAttributes(params);
+        }*/
         if(BA.isEnabled()) {
             pairedDevices = BA.getBondedDevices();
 
@@ -307,6 +326,7 @@ public class CallActivity extends AppCompatActivity
             for (BluetoothDevice bt : pairedDevices) {
                 if (bt.getName().equals(bluetoothDevice)) {
                     UUID uuid = UUID.fromString("00001101-0000-1000-8000-00805F9B34FB");
+
                     try {
                         BluetoothSocket mmSocket = bt.createRfcommSocketToServiceRecord(uuid);
                         mmSocket.connect();  // blocking call
@@ -315,12 +335,7 @@ public class CallActivity extends AppCompatActivity
                         Toast.makeText(getApplicationContext(), "成功辣",
                                 Toast.LENGTH_SHORT).show();
                         isConnect = true;
-                        if(isCamera){
-                            WindowManager.LayoutParams params = getWindow().getAttributes();
-                            params.flags |= WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON;
-                            params.screenBrightness = 0;
-                            getWindow().setAttributes(params);
-                        }
+
                     } catch (Exception e) {
                         e.printStackTrace();
                     }

@@ -1,7 +1,4 @@
-#Sun Aug 06 20:01:55 CST 2017
-base.0=/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run_c4da40142feeee8ba2fbfd69db731192585a3439
-renamed.1=classes2.dex
+#Sun Aug 06 22:21:16 CST 2017
+base.0=C\:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\transforms\\dex\\legacy\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run-bootstrap_54c4bc995bbb8edd6c339c7d7bb4cbe4ae6a85ba/classes.dex
-base.1=/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run-bootstrap_54c4bc995bbb8edd6c339c7d7bb4cbe4ae6a85ba
-file.0=/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run_c4da40142feeee8ba2fbfd69db731192585a3439/classes.dex
+file.0=C\:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\transforms\\dex\\legacy\\debug\\folders\\1000\\1f\\main\\classes.dex
