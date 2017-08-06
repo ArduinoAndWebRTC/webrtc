@@ -6,29 +6,22 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1502021359520"
+    timestamp="1502021858238"
     token="5351285151924224429"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1723" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="23" />
+        duration="0" />
     <task
         name="verifier"
-        duration="3" />
-
-    <artifact
-        location="/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/split-apk/legacy/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/jsharp/Desktop/android/Webrtc_current/app/build/outputs/apk/app-legacy-debug.apk"
-        type="SPLIT_MAIN" />
+        duration="0" />
 
     <build
         build-mode="FULL"
@@ -89,14 +82,6 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1502021202358"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/jsharp/Desktop/android/Webrtc_current/app/build/outputs/apk/app-legacy-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
         timestamp="1502021359520"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
@@ -106,5 +91,9 @@
             location="/Users/jsharp/Desktop/android/Webrtc_current/app/build/outputs/apk/app-legacy-debug.apk"
             type="SPLIT_MAIN" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1502021858238"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
