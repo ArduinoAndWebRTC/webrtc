@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/xml/preferences.xml",
-        "source": "/Users/jsharp/Desktop/android/Webrtc_current/app/src/main/res/xml/preferences.xml"
+        "merged": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\src\\main\\res\\xml\\preferences.xml"
     }
 ]

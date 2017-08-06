@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/Users/jsharp/Desktop/android/Webrtc_current/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]
