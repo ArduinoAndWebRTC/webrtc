@@ -24,6 +24,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.view.WindowManager;
 import android.view.WindowManager.LayoutParams;
 import android.widget.Toast;
 
@@ -314,6 +315,12 @@ public class CallActivity extends AppCompatActivity
                         Toast.makeText(getApplicationContext(), "成功辣",
                                 Toast.LENGTH_SHORT).show();
                         isConnect = true;
+                        if(isCamera){
+                            WindowManager.LayoutParams params = getWindow().getAttributes();
+                            params.flags |= WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON;
+                            params.screenBrightness = 0;
+                            getWindow().setAttributes(params);
+                        }
                     } catch (Exception e) {
                         e.printStackTrace();
                     }

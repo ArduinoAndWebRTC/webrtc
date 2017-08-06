@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\jsharp\\.android\\build-cache\\52862642be6acb8333773a2b6d6eab6bd162f5a3\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9426389a834a9ab09fcac54a870c65b747780f4a\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/jsharp/Desktop/android/Webrtc_current/app/build/intermediates/res/merged/legacy/debug/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/jsharp/.android/build-cache/52862642be6acb8333773a2b6d6eab6bd162f5a3/output/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9426389a834a9ab09fcac54a870c65b747780f4a\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\webrtc\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9426389a834a9ab09fcac54a870c65b747780f4a\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\jsharp\\.android\\build-cache\\52862642be6acb8333773a2b6d6eab6bd162f5a3\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jsharp\\Desktop\\android\\Webrtc_current\\app\\build\\intermediates\\res\\merged\\legacy\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\jsharp\\.android\\build-cache\\52862642be6acb8333773a2b6d6eab6bd162f5a3\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     }
 ]

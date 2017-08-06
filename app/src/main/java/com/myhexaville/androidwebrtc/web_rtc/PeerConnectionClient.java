@@ -475,7 +475,7 @@ public class PeerConnectionClient {
 
             // If fps is not specified, default to 30.
             if (videoFps == 0) {
-                videoFps = 60;
+                videoFps = 30;
             }
             Logging.d(TAG, "Capturing format: " + videoWidth + "x" + videoHeight + "@" + videoFps);
         }
